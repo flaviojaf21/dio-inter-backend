@@ -23,6 +23,7 @@ https://dev.to/melquisedecfelipe/configurando-eslint-no-node-com-express-e-types
 ## Aplicação Completa Backend em Node
 
 [![made-with-javascript](https://img.shields.io/badge/Made%20with-JavaScript-1f425f.svg)](https://www.javascript.com)
+https://img.shields.io/badge/license-mit-green
 
 
 💻 Sobre o Projeto
