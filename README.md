@@ -28,7 +28,6 @@ The following technologies were used in the construction of the project:
 - [React.js][react]
 - [Styled-Components][styled]
 - [Node.js][nodejs]
-- [Express][express]
 - [TypeScript][typescript]
 - [Docker][docker]  
 - [TypeOrm][typeorm]
@@ -36,13 +35,13 @@ The following technologies were used in the construction of the project:
 - [Nodemon][nodemon]
 - [Crypto-JS][cryptojs]
 - [express-async-erros][expresserrors]
-- [Vscode][vscode]
+- 
 ---
 Requirements and environment:
 
-- Visual Studio Code
+- [Vscode][vscode]
   Extensões:
-- Insomnia ou Postman
+- [Insomnia][Insomnia] 
 ---
 Nescessary dependencies:
 
@@ -71,14 +70,39 @@ Nescessary dependencies:
 
   # Run the command -> npm run start:dev ou yarn start:dev
   
+  ```
+  
 ## License
 
 The [MIT License]() (MIT)
 
-Copyright :copyright: Ano - Titulo do Projeto
+Copyright :copyright:2021 - Aplicação Completa Backend em Node
 
 ---
 [^1]: My reference.
+[Dia Backend Inter][Dia-Backend-Inter] 
+
+Feito por Flavio Ferreira 👋🏽 [Contato!](https://www.linkedin.com/in/flaviojaf21/)
+
+[react]: https://pt-br.reactjs.org/
+[styled]: https://styled-components.com/
+[nodejs]: https://nodejs.org/
+[typescript]: https://www.typescriptlang.org/
+[typeorm]: https://typeorm.io/#/
+[Joi]: https://joi.dev/api/?v=17.4.2
+[docker]: https://docs.docker.com/
+[bcrypt]: https://www.npmjs.com/package/bcryptjs
+[jsonwebtoken]: https://www.npmjs.com/package/jsonwebtoken
+[multer]: https://www.npmjs.com/package/multer
+[datefns]: https://date-fns.org/
+[ethereal]: https://ethereal.email/
+[handlebars]: https://handlebarsjs.com/
+[Vscode]: https://code.visualstudio.com/
+[nodemon]: https://www.npmjs.com/package/nodemon
+[cryptojs]: https://www.npmjs.com/package/crypto-js
+[expresserrors]: https://www.npmjs.com/package/express-async-errors
+[Insomnia] :https://insomnia.rest/
+[Dia-Backend-Inter] :https://github.com/pablohdev/dio-inter-clone-backend/tree/template
 
 
 
