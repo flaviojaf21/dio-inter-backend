@@ -40,7 +40,7 @@ The following technologies were used in the construction of the project:
 Requirements and environment:
 
 - [Vscode][vscode]
-  - Extensões:
+  - Extensions:
     - Eslint
     - Dracula theme
     - Material icon
@@ -105,5 +105,6 @@ Feito por Flavio Ferreira 👋🏽 [Contato!](https://www.linkedin.com/in/flavio
 
 
 ---
-[^1]: My reference.
+
+[^note]: My reference.
 
