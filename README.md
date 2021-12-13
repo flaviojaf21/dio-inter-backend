@@ -11,6 +11,9 @@
 
 :small_blue_diamond: [How to run the App](#How-to-run-the-App)
 
+:small_blue_diamond: [License](#License)
+
+
 
 ## Project Description
 
@@ -35,13 +38,13 @@ The following technologies were used in the construction of the project:
 - [express-async-erros][expresserrors]
 - [Vscode][vscode]
 ---
-Requirements and environment
+Requirements and environment:
 
 - Visual Studio Code
   Extensões:
 - Insomnia ou Postman
 ---
-Nescessary dependencies
+Nescessary dependencies:
 
 - Express
 - typescript -D
@@ -67,6 +70,15 @@ Nescessary dependencies
   # Run the command to move up the database to your docker -> docker-compose up -d
 
   # Run the command -> npm run start:dev ou yarn start:dev
+  
+## License
+
+The [MIT License]() (MIT)
+
+Copyright :copyright: Ano - Titulo do Projeto
+
+---
+[^1]: My reference.
 
 
 
