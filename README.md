@@ -86,6 +86,8 @@ Feito por Flavio Ferreira 👋🏽 [Contato!](https://www.linkedin.com/in/flavio
 
 <a name="myfootnote1">1</a>: Footnote content goes here
 
+Bla bla <sup id="a1">[1](#f1)</sup>
+
 [react]: https://pt-br.reactjs.org/
 [styled]: https://styled-components.com/
 [nodejs]: https://nodejs.org/
@@ -106,5 +108,9 @@ Feito por Flavio Ferreira 👋🏽 [Contato!](https://www.linkedin.com/in/flavio
 [Insomnia]: https://insomnia.rest/
 
 <sup>[1](#myfootnote1)</sup>
+
+<b id="f1">1</b> Footnote content here. [↩](#a1)
+
+
 
 
