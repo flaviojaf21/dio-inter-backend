@@ -41,6 +41,14 @@ Requirements and environment:
 
 - [Vscode][vscode]
   - Extensões:
+    - Eslint
+    - Dracula theme
+    - Material icon
+    - Rocketseat react native
+    - Rocketseat reactus
+    - Prettier – code formatter
+    - EditorConfig 
+ 
 - [Insomnia][Insomnia] 
 ---
 Nescessary dependencies:
