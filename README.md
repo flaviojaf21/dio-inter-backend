@@ -1,4 +1,4 @@
-## Aplicação Completa Backend em Node
+## Full Backend Application in Node
 
 [![made-with-javascript](https://img.shields.io/badge/Made%20with-JavaScript-1f425f.svg)](https://www.javascript.com)
 ![license-MIT](https://img.shields.io/badge/license-MIT-green)
@@ -80,7 +80,7 @@ Nescessary dependencies:
 
 The [MIT License]() (MIT)
 
-Copyright :copyright:2021 - Aplicação Completa Backend em Node
+Copyright :copyright:2021 - Full Backend Application in Node
 
 Feito por Flavio Ferreira 👋🏽 [Contato!](https://www.linkedin.com/in/flaviojaf21/)
 
