@@ -86,7 +86,7 @@ Feito por Flavio Ferreira 👋🏽 [Contato!](https://www.linkedin.com/in/flavio
 
 Reference of the project DIO [^1]
 
-Footnotes
+## Footnotes
 =========
 
 [^1]: https://github.com/pablohdev/dio-inter-clone-backend/tree/template
