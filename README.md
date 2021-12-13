@@ -43,12 +43,12 @@ Requirements and environment
 ---
 Nescessary dependencies
 
-Express
-typescript -D
-ts-node -D 
-@types/express -D
-@types/node -D
-nodemon -D
+- Express
+- typescript -D
+- ts-node -D 
+- @types/express -D
+- @types/node -D
+- nodemon -D
 
 ## How-to-run-the-App :arrow_forward:
 
