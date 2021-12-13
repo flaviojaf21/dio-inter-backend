@@ -84,7 +84,7 @@ Copyright :copyright:2021 - Aplicação Completa Backend em Node
 
 Feito por Flavio Ferreira 👋🏽 [Contato!](https://www.linkedin.com/in/flaviojaf21/)
 
-[^note]: My reference.
+<a name="myfootnote1">1</a>: Footnote content goes here
 
 [react]: https://pt-br.reactjs.org/
 [styled]: https://styled-components.com/
@@ -105,6 +105,6 @@ Feito por Flavio Ferreira 👋🏽 [Contato!](https://www.linkedin.com/in/flavio
 [expresserrors]: https://www.npmjs.com/package/express-async-errors
 [Insomnia]: https://insomnia.rest/
 
-
+<sup>[1](#myfootnote1)</sup>
 
 
