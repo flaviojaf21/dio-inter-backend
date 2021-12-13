@@ -98,11 +98,11 @@ Feito por Flavio Ferreira 👋🏽 [Contato!](https://www.linkedin.com/in/flavio
 [cryptojs]: https://www.npmjs.com/package/crypto-js
 [expresserrors]: https://www.npmjs.com/package/express-async-errors
 [Insomnia]: https://insomnia.rest/
-[Dia-Backend-Inter]: https://github.com/pablohdev/dio-inter-clone-backend/tree/template
+
 
 ---
 [^1]: My reference.
 - [Dia Backend Inter] [Dia-Backend-Inter] 
 
-
+[Dia-Backend-Inter]: https://github.com/pablohdev/dio-inter-clone-backend/tree/template
 
