@@ -78,10 +78,6 @@ The [MIT License]() (MIT)
 
 Copyright :copyright:2021 - Aplicação Completa Backend em Node
 
----
-[^1]: My reference.
-- [Dia Backend Inter] [Dia-Backend-Inter] 
-
 Feito por Flavio Ferreira 👋🏽 [Contato!](https://www.linkedin.com/in/flaviojaf21/)
 
 [react]: https://pt-br.reactjs.org/
@@ -104,7 +100,9 @@ Feito por Flavio Ferreira 👋🏽 [Contato!](https://www.linkedin.com/in/flavio
 [Insomnia] :https://insomnia.rest/
 [Dia-Backend-Inter] :https://github.com/pablohdev/dio-inter-clone-backend/tree/template
 
-
+---
+[^1]: My reference.
+- [Dia Backend Inter] [Dia-Backend-Inter] 
 
 
 
