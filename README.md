@@ -84,20 +84,12 @@ Copyright :copyright:2021 - Aplicação Completa Backend em Node
 
 Feito por Flavio Ferreira 👋🏽 [Contato!](https://www.linkedin.com/in/flaviojaf21/)
 
-<a name="myfootnote1">1</a>: Footnote content goes here
-
-Bla bla <sup id="a1">[1](#f1)</sup>
-
-Here is a paragraph with an footnote <span id="a1">[[1]](#f1)</span>.
-
 Reference of the project DIO [^1]
 
 Footnotes
 =========
 
-1. <span id="f1"></span> This is a footnote. [$\hookleftarrow$](#a1)
-
-[^1]: https://github.com/flaviojaf21/dio-inter-backend.git
+[^1]: https://github.com/pablohdev/dio-inter-clone-backend/tree/template
 
 [react]: https://pt-br.reactjs.org/
 [styled]: https://styled-components.com/
@@ -118,9 +110,7 @@ Footnotes
 [expresserrors]: https://www.npmjs.com/package/express-async-errors
 [Insomnia]: https://insomnia.rest/
 
-<sup>[1](#myfootnote1)</sup>
 
-<b id="f1">1</b> Footnote content here. [↩](#a1)
 
 
 
