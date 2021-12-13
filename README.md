@@ -84,6 +84,8 @@ Copyright :copyright:2021 - Aplicação Completa Backend em Node
 
 Feito por Flavio Ferreira 👋🏽 [Contato!](https://www.linkedin.com/in/flaviojaf21/)
 
+[^note]: My reference.
+
 [react]: https://pt-br.reactjs.org/
 [styled]: https://styled-components.com/
 [nodejs]: https://nodejs.org/
@@ -104,7 +106,5 @@ Feito por Flavio Ferreira 👋🏽 [Contato!](https://www.linkedin.com/in/flavio
 [Insomnia]: https://insomnia.rest/
 
 
----
 
-[^note]: My reference.
 
