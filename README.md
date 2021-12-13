@@ -90,14 +90,14 @@ Bla bla <sup id="a1">[1](#f1)</sup>
 
 Here is a paragraph with an footnote <span id="a1">[[1]](#f1)</span>.
 
-Here is a simple footnote[^1]
+Reference of the project DIO [^1]
 
 Footnotes
 =========
 
 1. <span id="f1"></span> This is a footnote. [$\hookleftarrow$](#a1)
 
-[^1]: My reference.Update
+[^1]: https://github.com/flaviojaf21/dio-inter-backend.git
 
 [react]: https://pt-br.reactjs.org/
 [styled]: https://styled-components.com/
