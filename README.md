@@ -58,13 +58,9 @@ Nescessary dependencies:
 
   # clone all the repository 
   
-  git clone 
+  git clone https://github.com/flaviojaf21/dio-inter-backend.git
 
   # Access the directory
-
-  ## Estando na pasta com os dois projetos, abrir dois consoles um para acessar a pasta backend-app e no outro console frontend-app
-  
-  # Ambas as pastas, rodar o comando -> yarn 
 
   # Run the command to move up the database to your docker -> docker-compose up -d
 
@@ -102,7 +98,4 @@ Feito por Flavio Ferreira 👋🏽 [Contato!](https://www.linkedin.com/in/flavio
 
 ---
 [^1]: My reference.
-- [Dia Backend Inter] [Dia-Backend-Inter] 
-
-[Dia-Backend-Inter]: https://github.com/pablohdev/dio-inter-clone-backend/tree/template
 
