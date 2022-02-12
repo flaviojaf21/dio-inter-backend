@@ -82,7 +82,7 @@ The [MIT License]() (MIT)
 
 Copyright :copyright:2021 - Full Backend Application in Node
 
-Feito por Flavio Ferreira 👋🏽 [Contato!](https://www.linkedin.com/in/flaviojaf21/)
+Made by Flavio Ferreira 👋🏽 [Contact!](https://www.linkedin.com/in/flaviojaf21/)
 
 Reference of the project DIO [^1]
 
